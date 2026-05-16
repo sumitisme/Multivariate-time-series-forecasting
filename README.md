@@ -6,7 +6,7 @@
 * Batch size = 64
 * Hidden layer = 64 (tested with 124 but showed overfit so changed to 64)
 * Number of layers = 1 
-* dropout = 0/3
+* dropout = 0.3
 * learning rate = 0.001
 * epochs = 50 (The model didn't learn too much after 40 epochs in the original test)
 * 80 - 20 split
