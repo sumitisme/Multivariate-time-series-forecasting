@@ -53,6 +53,7 @@
 * Reduce the number of features. We have determined the importance and so on through which we remove precipitation but there's definitely more to do here.
 * Clean out the data further. The data we received seems to have gaps that we have had to skip over.
 * The parameters have been managed manually here. 
+* Error distribution for the predicted data. 
 
 # Outputs:
 
