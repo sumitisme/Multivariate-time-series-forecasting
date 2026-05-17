@@ -9,7 +9,7 @@
 * dropout = 0.3
 * learning rate = 0.001
 * epochs = 50 (The model didn't learn too much after 40 epochs in the original test)
-* 80 - 20 split
+* 80 - 20 train-test split
 * Model : LSTM
 
 # Features used:
@@ -39,7 +39,7 @@
 * Nepalgunj specific humidity
 * Nepalgunj surface pressure
 * Nepalgunj wind speed
-* Pokhara temperature (This data was probably faulty in our dataset. Yet to correct this one)
+* Pokhara temperature 
 * Pokhara specific humidity
 * Pokhara surface pressure
 * Pokhara wind speed
@@ -57,7 +57,7 @@
 
 # Outputs:
 
-## The learning curves for testing and validation:
+## The learning curves for training and validation:
 
 ![Learning curves](/images/Learning%20Curves.png)
 
