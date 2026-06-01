@@ -63,7 +63,7 @@
 
 ## Complete forecast in the training set and for the first 96 data
 
-![Forecast](/images/Forecast%20of%20the%20test%20set%20and%20the%20first%2096%20data.png)
+![Forecast](/images/full%20test%20set%20and%20first%2096%20slots%20LSTM.png)
 
 ## Final forecast for 2026-01-31 (random selected date here) - MAE = 34.07 MW, MAPE = 2.29 %
 
